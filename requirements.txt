@@ -3,7 +3,7 @@ html5lib==1.0.1
 isoweek==1.3.3
 kaggle==1.1.0
 matplotlib==2.2.2
-numpy==1.14.2
+numpy==1.22.0
 opencv-python==3.4.0.12
 pandas==0.22.0
 Pillow==5.1.0
